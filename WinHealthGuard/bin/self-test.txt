@@ -1,0 +1,29 @@
+cpuValid=True
+cpu=6.3
+ramMb=11843/24185
+ramPercent=48
+commitMb=17651/36644
+diskFreeGb=14.05
+powerGuid=381b4222-f694-41f0-9685-ff5bb260df2e
+powerName=平衡
+onAc=True
+foreground=Cursor
+setActiveSame=True Power plan is now 平衡.
+gpu=AMD Radeon(TM) 860M Graphics
+driver=32.0.32015.7029
+driverDate=2026-10-18
+diskStatus=OK
+pageKnown=True auto=True
+showAmd=True
+recentEvents=8
+event 2026-11-07 10:03:58 AppCrash dwm.exe dwm.exe crashed (0x887a0001).
+event 2026-11-07 09:55:52 AppCrash atieclxx.exe atieclxx.exe crashed: access violation (0xc0000005) in atiadlxx.dll_unloaded.
+event 2026-11-04 15:56:45 AppCrash PresentMon-x64.exe PresentMon-x64.exe crashed: access violation (0xc0000005) in PresentMon-x64.exe.
+event 2026-11-01 20:15:59 AppCrash PresentMon-x64.exe PresentMon-x64.exe crashed: access violation (0xc0000005) in PresentMon-x64.exe.
+event 2026-10-30 20:24:39 AppHang TaskBarHero.exe TaskBarHero.exe stopped responding.
+score=54 status=Attention
+nonPaged=611 reserved=0 modules=2/2 sysmain=12 dwm=54 startup=0 truncate=True pageGrow=False
+note=18 Overlay crashed | A graphics overlay crashed 2 times this week. The repair is to turn overlays off.
+note=16 Memory limit is on | Windows is set to use only part of the installed RAM. The repair removes that boot limit. The graphics frame buffer in BIOS is not changed.
+note=12 Low disk space | C: has 14 GB free. Leave more room for game updates and saves.
+OK
